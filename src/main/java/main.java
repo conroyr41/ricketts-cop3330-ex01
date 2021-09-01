@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 1 Solution
+ *  Copyright 2021 Conroy Ricketts
+ */
+
 import java.util.Scanner;
 
 public class main
